@@ -1,0 +1,22 @@
+.blocks{
+    display: flex;
+}
+.section-title{
+    border-bottom: 2px solid blue;
+    font-style: italic;
+}
+.body{
+    margin: 0 2rem;
+}
+.section-content{
+    margin-left: 4rem;
+}
+.section-list{
+    list-style: none;
+    margin-left: 6rem;;
+}
+h1{
+    background-color: blue;
+    color: #fff;
+    padding: 2rem 1rem;
+}
